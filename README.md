@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there 👋
+
+I am a 22-year-old software developer and live in Borculo, The Netherlands. In my spare time, I like to contribute to open-source projects and stay up to date with the latest technologies.
+
+# Contact me
+- Website: [joery.nl](https://joery.nl)
+- E-mail: [me@joery.nl](mailto:me@joery.nl)
+- LinkedIn: [Joery Droppers](https://www.linkedin.com/in/joerydroppers/)
+
 
 <!--
 **Droppers/Droppers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

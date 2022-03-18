@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am a 22-year-old software developer and live in Borculo, The Netherlands. In my spare time, I like to contribute to open-source projects and stay up to date with the latest technologies.
+I am a 23-year-old software developer and live in Borculo, The Netherlands. In my spare time, I like to contribute to open-source projects and stay up to date with the latest technologies.
 
 # Contact me
 - Website: [joery.nl](https://joery.nl)

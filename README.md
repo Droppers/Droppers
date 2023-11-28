@@ -1,10 +1,10 @@
 # Hello there 👋
 
-I am a 24-year-old software developer and located in Vorden, The Netherlands. In my spare time I like to contribute to open-source projects and stay up to date with the latest technologies.
+I am a 24-year-old software developer located in Vorden, The Netherlands. In my spare time I like to contribute to open-source projects and stay up to date with the latest technologies.
 
 # Contact me
 - Website: [joery.nl](https://joery.nl)
-- E-mail: [me@joery.nl](mailto:me@joery.nl)
+- E-mail: [mail@joery.nl](mailto:mail@joery.nl)
 - LinkedIn: [Joery Droppers](https://www.linkedin.com/in/joerydroppers/)
 
 
